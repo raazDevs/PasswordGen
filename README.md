@@ -14,9 +14,9 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-###
+## https://password-gen-five-psi.vercel.app
 
-This URL has the application deployed in
+This URL has the application deployed in "vercel.app"
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ npm install -g create-react-app
 
 ## Live Application URL
 
-The Application is deployed in
+The Application is deployed in https://password-gen-five-psi.vercel.app
 
 Click on the link to see the application
 
